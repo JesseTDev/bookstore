@@ -11,14 +11,6 @@ Bookstore project, where users can take advantage of our google intergration to 
 - MUI
 - Firebase
 
-<h3>Notes</h3>
-
-- React was chosen because I aim to become a junior react developer and for its capabilities  and ui development.
-- Full global state, utilising useContext / useReducer to practice this particular state management concept.
-- For the CSS, it is a mixture of styled-components and MUI. It was outside the scope of this project to configure CRA / styled-components / MUI to work together.
-- Created some custom components and some from MUI to get used to both approaches to ui development.
-- Intergrated with firebase for data storage and user authentication to practice intergrating with third party api's.
-
 
 
 # Getting Started with Create React App
