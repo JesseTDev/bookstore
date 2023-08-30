@@ -6,7 +6,6 @@ Bookstore project, where users can take advantage of our google intergration to 
 
 - React
 - React Router
-- useContext / useReducer
 - Styled-components
 - MUI
 - Firebase
